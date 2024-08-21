@@ -7,4 +7,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/406086/letter-z.svg" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/406083/letter-v.svg" height="40"/>&nbsp;
 </div>
